@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.beyondspace.studio)",
+      "WebFetch(domain:www.framer.com)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:www.obriy.design)",
+      "WebFetch(domain:www.uxpin.com)",
+      "WebFetch(domain:polycount.com)",
+      "WebFetch(domain:magazine.artstation.com)",
+      "Bash(cmd.exe:*)",
+      "Bash(powershell.exe:*)"
+    ]
+  }
+}
